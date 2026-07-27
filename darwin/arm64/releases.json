@@ -1,0 +1,14 @@
+{
+  "currentRelease": "0.3.0",
+  "releases": [
+    {
+      "version": "0.3.0",
+      "updateTo": {
+        "version": "0.3.0",
+        "url": "https://github.com/BacoAI/baking-assistant-releases/releases/download/v0.3.0/BakingAI-0.3.0-arm64.zip",
+        "name": "貝克街烘焙AI v0.3.0",
+        "pub_date": "2026-07-27T00:51:16.910Z"
+      }
+    }
+  ]
+}
