@@ -1,13 +1,13 @@
 {
-  "currentRelease": "0.3.0",
+  "currentRelease": "0.4.2",
   "releases": [
     {
-      "version": "0.3.0",
+      "version": "0.4.2",
       "updateTo": {
-        "version": "0.3.0",
-        "url": "https://pub-86d1f689f3d3487cbbd22955b0d7ffa8.r2.dev/darwin/arm64/BakingAI-0.3.0-arm64.zip",
-        "name": "貝克街烘焙AI v0.3.0",
-        "pub_date": "2026-07-27T01:19:39.805Z"
+        "version": "0.4.2",
+        "url": "https://pub-86d1f689f3d3487cbbd22955b0d7ffa8.r2.dev/darwin/arm64/BakingAI-0.4.2-arm64.zip",
+        "name": "貝克街烘焙AI v0.4.2",
+        "pub_date": "2026-08-06T08:42:47.457Z"
       }
     }
   ]
